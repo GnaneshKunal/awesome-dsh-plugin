@@ -1,0 +1,6 @@
+url: https://github.com/GnaneshKunal/dsh-menubar/tree/main/plugin
+name: GnaneshKunal/dsh-menubar#plugin
+category: ui
+description:
+  en: 'DeepSeek Harness in the macOS menu bar: a ⌃⌥Q window that boots the real dsh interface through a pre-authenticated URL, backed by a host plugin that projects a token-authenticated bridge onto the host session APIs, so asks made from the menu bar become tracked sessions. Includes ⌘F find-on-page, a compact fallback window, streaming answers, session titles, text paste, and a bundle config page that starts, restarts or quits the app.'
+  zh: '把 DeepSeek Harness 放进 macOS 菜单栏：⌃⌥Q 唤出的窗口通过一次性预授权链接直接加载真正的 dsh 界面；配套宿主插件把带令牌的桥接投射到宿主的会话接口上，菜单栏里的提问因此成为可追踪的会话。另含 ⌘F 页内查找、精简窗口、流式回答、会话标题、文本粘贴，以及可启动 / 重启 / 退出应用的配置页。'
